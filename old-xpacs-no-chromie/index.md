@@ -12,7 +12,9 @@ A few requirements before you start:
 </p>
 
 
-2. Do not pick up more than one starting quest at the same time, you may end up phased out from NPCs and unable to progress, if that happens, abandon all starting quests and pick again the one you want to do.
+2. Do not pick up more than one starting quest at the same time, you may end up phased out from NPCs and unable to progress, if that happens, abandon all starting quests and pick again the one you want to do.  
+**WARNING**: if you have the latest expansion, the moment you reach the required level on any character, the game will **automatically give you the starting quest** for it - currently it's The War Within at level 70.  
+That quest sitting in your log can seriously interfere with other xpac quests, so finish TWW intro *before* you start any other expansion.
 
 3. Buy a **[Soft Foam Sword](https://www.wowhead.com/item=137663/soft-foam-sword)** (50 gold), it allows you to weaken low level enemies without killing them, as required by some quests, you won't be able to at max level without it, not even if you take off all your equipment.  
 (it's a toy, after using it you'll find it in your Toy Box Collection - **SHIFT+P** is default keybind to open Collections - drag it to your action bar and use it when needed)  
@@ -447,7 +449,7 @@ There are some zone quests you can take from a Hero/Command board, but you don't
 Just go out in the world, explore and do the quests you find along the way, that was the intended way to play back then.
 
 **NOTE**  
-All original vanilla zones have been deeply changed with the Cataclysm expansions, the original versions are not available anymore on retail in any way.  
+All original vanilla zones have been deeply changed with the Cataclysm expansion, the original versions are not available anymore on retail in any way.  
 If you want to experience those, you need to play WoW Classic.
 
 
